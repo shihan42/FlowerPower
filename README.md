@@ -5,7 +5,9 @@ A little Satisfactory mod that adds a recipe for converting flower petals to bio
 Just download it with the Satisfactory Mod Loader. For additional information, visit https://ficsit.app/mod/FlowerPower
 
 ## Screenshot
-![alt text](https://raw.githubusercontent.com/shihan42/FlowerPower/main/Docs/screenshot-1.jpg "A constructor using the new recipe")
+![alt text](https://raw.githubusercontent.com/shihan42/FlowerPower/main/Docs/belts.jpg "A constructor using the new recipe")
+
+![alt text](https://raw.githubusercontent.com/shihan42/FlowerPower/main/Docs/recipe.jpg "The constructors settings")
 
 ## Contact
 Just ping me on the modding discord: @Shihan
