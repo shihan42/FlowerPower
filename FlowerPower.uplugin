@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"SemVersion": "1.0.0",
-	"VersionName": "1.0.0",
+	"SemVersion": "1.0.1",
+	"VersionName": "1.0.1",
 	"FriendlyName": "FlowerPower",
 	"Description": "Adds a recipe to convert flower petals to biomass.",
 	"Category": "Modding",
@@ -18,7 +18,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.3.2",
+			"SemVersion": "^3.7.0",
 			"Enabled": true
 		}
 	]
